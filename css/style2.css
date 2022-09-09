@@ -1,0 +1,27 @@
+.kutu{
+    width: 100px;
+    height: 100px;
+
+}
+.kutu1{
+    background-color:lawngreen;
+
+}
+.kutu2{
+    background-color:brown;
+    flex:2;
+}
+.kutu3{
+    background-color:blue;
+    flex:2;
+}
+.kutu4{
+    background-color: coral;
+}
+
+.contanier{
+    display: flex;
+    flex-direction: row;
+    justify-content:space-around;
+}
+

@@ -1,0 +1,41 @@
+*{
+    text-align: center;
+}
+
+h2{
+    color: aliceblue; background-color: aquamarine;
+}
+  .ilk{
+    color:brown; ;
+}
+
+.red{
+    color:red
+}
+a{
+    text-decoration: none;
+}
+.b
+{
+    color:red
+
+}
+.ana{
+    border: 2px solid blueviolet; border-radius: 8px
+    ;
+}
+
+.kutu{
+    background-color:black;
+    width: 150px;
+    height: 150px;
+    box-shadow: 5px 5px 20px 5px blue;
+}
+.kutu2{
+    background-color:darkslategray;
+    width: 150px;
+    height: 150px;
+    border: 3px solid blue;
+    border-radius: 150px;
+}
+
